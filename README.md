@@ -15,7 +15,7 @@ Co-founded [RevenueHunt](https://revenuehunt.com) in 2019 — 7-figure bootstrap
 
 ## What I care about
 
-Building things that make money from day one. Location independence. Distributing my life across jurisdictions so no single government owns me. Connecting with founders who build profitable businesses from anywhere, without investors or gatekeepers.
+Building things that make money from day one. Location independence. Life distributed across borders — no single point of failure. Connecting with founders who build profitable businesses from anywhere, without investors or gatekeepers.
 
 ---
 
