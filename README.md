@@ -6,6 +6,10 @@ Co-founded [RevenueHunt](https://revenuehunt.com) in 2019 — 7-figure bootstrap
 
 ## What I publish here
 
+**MCP Servers** — extend AI assistants with native capabilities:
+
+- 🖥️ [mac-use](https://github.com/entpnomad/mac-use) — Control any macOS app from Claude Code via Accessibility APIs
+
 **Claude Code Skills** — reusable AI-powered workflows:
 
 - 💡 [bootstrapper-toolkit](https://github.com/entpnomad/bootstrapper-toolkit) — 20 skills for evaluating business ideas with bootstrapper rigor
