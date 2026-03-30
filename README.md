@@ -8,7 +8,7 @@ Co-founded [RevenueHunt](https://revenuehunt.com) in 2019 — 7-figure bootstrap
 
 **MCP Servers** — extend AI assistants with native capabilities:
 
-- 🖥️ [mac-use](https://github.com/entpnomad/mac-use) — Stop clicking through apps that don't talk to each other. Automate any macOS app via Accessibility APIs
+- 🖥️ [mac-use](https://github.com/entpnomad/mac-use) — Automate your desktop job. Let AI click, type, and read any macOS app via Accessibility APIs
 
 **Claude Code Skills** — reusable AI-powered workflows:
 
