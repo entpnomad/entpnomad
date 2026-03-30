@@ -15,6 +15,7 @@ Co-founded [RevenueHunt](https://revenuehunt.com) in 2019 — 7-figure bootstrap
 - 💡 [bootstrapper-toolkit](https://github.com/entpnomad/bootstrapper-toolkit) — 20 skills for evaluating business ideas with bootstrapper rigor
 - 🌍 [flag-theory](https://github.com/entpnomad/flag-theory) — International setup optimization using flag theory
 - 🚀 [ai-rank](https://github.com/entpnomad/ai-rank) — Optimize content for LLM answer engines and AI agents
+- 📊 [seo-rank](https://github.com/entpnomad/seo-rank) — Comprehensive SEO auditing and optimization to 2026 standards
 - 🔍 [review-staged](https://github.com/entpnomad/review-staged) — Multi-agent parallel code review
 - 🎤 [tone-of-voice](https://github.com/entpnomad/tone-of-voice) — Learn your brand voice through questions, enforce it across all content
 - 📺 [youtube-summary](https://github.com/entpnomad/youtube-summary) — Summarize any YouTube video via MCP transcript extraction
