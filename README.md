@@ -1,3 +1,5 @@
+🌐 [English](README.md) | [Español](README.es.md) | [Français](README.fr.md) | [Italiano](README.it.md)
+
 # Hey, I'm Alex
 
 Architect turned founder. Built buildings, then built software. Taught myself to code at 30 — not out of passion, out of ambition.
