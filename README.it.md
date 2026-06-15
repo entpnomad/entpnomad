@@ -20,6 +20,7 @@ Ho cofondato [RevenueHunt](https://revenuehunt.com) nel 2019 — un SaaS bootstr
 - 📊 [seo-rank](https://github.com/entpnomad/seo-rank) — Audit e ottimizzazione SEO completi agli standard 2026
 - 🔍 [review-staged](https://github.com/entpnomad/review-staged) — Code review parallela multi-agente
 - 🎤 [tone-of-voice](https://github.com/entpnomad/tone-of-voice) — Impara la voce del tuo brand attraverso domande, applicala su tutti i contenuti
+- ✍️ [copywriting](https://github.com/entpnomad/copywriting) — Scrivi copy che non si puo copiare: concreto, verificabile, inimitabile
 - 📺 [youtube-summary](https://github.com/entpnomad/youtube-summary) — Riassumi qualsiasi video YouTube tramite MCP transcript extraction
 
 ## Cosa mi sta a cuore

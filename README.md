@@ -20,6 +20,7 @@ Co-founded [RevenueHunt](https://revenuehunt.com) in 2019 — 7-figure bootstrap
 - 📊 [seo-rank](https://github.com/entpnomad/seo-rank) — Comprehensive SEO auditing and optimization to 2026 standards
 - 🔍 [review-staged](https://github.com/entpnomad/review-staged) — Multi-agent parallel code review
 - 🎤 [tone-of-voice](https://github.com/entpnomad/tone-of-voice) — Learn your brand voice through questions, enforce it across all content
+- ✍️ [copywriting](https://github.com/entpnomad/copywriting) — Write copy that can't be copied: concrete, falsifiable, ownable
 - 📺 [youtube-summary](https://github.com/entpnomad/youtube-summary) — Summarize any YouTube video via MCP transcript extraction
 
 ## What I care about
